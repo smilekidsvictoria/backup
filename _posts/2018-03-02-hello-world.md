@@ -1,8 +1,6 @@
 ---
-title: "Revolution has begun!"
-description: "'I am bound to Tahiti for more men.'
-'Very good. Let me board you a moment—I come in peace.' With that he leaped from the canoe, swam to the boat; and climbing the gunwale, stood face to face with the captain.
-'Cross your arms, sir; throw back your head. Now, repeat after me. As soon as Steelkilt leaves me, I swear to beach this boat on yonder island, and remain there six days. If I do not, may lightning strike me!'A pretty scholar,' laughed the Lakeman. 'Adios, Senor!' and leaping into the sea, he swam back to his comrades."
+title: "Creative Curriculum"
+description: "At Kare-a-Lot we use Creative Curriculum, an evidenced based, learning curriculum for children ages birth through 5. It is used to set objectives for each of our classes, set the standards, write our lesson plans and classroom assessments. A curriculum is the what, why, how and why of a program. It guides in planning and offering excellent care and education to the children that it serves. It helps us to be intentional about the experiences that we offer while still having the flexibility to change the program to meet the needs and interests of the children in our care."
 picture: blog2.jpg
 
 label_default: "alice" 

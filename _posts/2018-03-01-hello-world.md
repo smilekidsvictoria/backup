@@ -1,9 +1,6 @@
 ---
-title: "Alice in Wonderland, part dos"
-description: "'You ought to be ashamed of yourself for asking such a simple question,' added the Gryphon; and then they both sat silent and looked at poor Alice, who felt ready to sink into the earth. At last the Gryphon said to the Mock Turtle, 'Drive on, old fellow! Don't be all day about it!' and he went on in these words:
-'Yes, we went to school in the sea, though you mayn't believe it—'
-'I never said I didn't!' interrupted Alice.
-'You did,' said the Mock Turtle."
+title: "PreKindergarten"
+description: "'At Kare-a-Lot our PreK room serves children aged 4 to 5 years but not yet eligible for Kindergarten. We offer both a full day and half day program with flexible hours and rates to accommodate families with varied schedules. We provide a safe learning environment which stimulates natural development. Our program covers all areas of a child’s development including social-emotional, language, cognitive and physical development. We have a weekly theme schedule with monthly visitors to enhance our themes. All of our activities are based upon our curriculum and our PreK Goals and Objectives. We provide all the food your child will need throughout the day including a breakfast snack, lunch and afternoon snack. A schedule is provided below that outlines our meal times as well as our academic/learning times."
 picture: blog1.jpg
 
 label_default: "alice" 
