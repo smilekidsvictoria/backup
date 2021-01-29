@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Smilekids Cildcare Center
 email: xkiwis@gmail.com
-#description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
   Yet another Jekyll theme. It is designed for business purpose and ported by 
   Melvin Ch'ng.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
