@@ -14,20 +14,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Smilekids Cildcare Center
-email: xkiwis@gmail.com
+email: mysmilekids.adm@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Yet another Jekyll theme. It is designed for business purpose and ported by 
   Melvin Ch'ng.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://smilekidsvictoria.ca" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
 company_name: Anna song
-address_line: 470 Belleville St, Victoria, BC V8V 1W9
+address_line: Lambrick Centre: 4126 Cabot Place, Victoria, BC V8N 4V8
+Downtown Centre: 840 Cormorant st.
 telephone_number: 1.256.884.4126
 #fax_number: 1.250.884.4126
-company_email: xkiwis@gmail.com
-google_map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31567.127789105576!2d-123.39092566764621!3d48.431708285292984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548f748a80d47bd7%3A0xb220d97265e61d6f!2sCraigdarroch%20Castle!5e0!3m2!1sen!2sca!4v1611905291616!5m2!1sen!2sca
+company_email: mysmilekids.adm@gmail.com
+google_map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2644.9185167178416!2d-123.32709074813731!3d48.477276535316086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548f716155b75d87%3A0xfb7f61f0f513034c!2s4126%20Cabot%20Pl%2C%20Victoria%2C%20BC%20V8N%204V8!5e0!3m2!1sen!2sca!4v1612511775882!5m2!1sen!2sca
 
 # Social Link
 facebook_link: http://smilekidsvictoria.ca
